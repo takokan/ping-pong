@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "ping-pong",
   "private": true,
   "scripts": {
     "build": "turbo run build",
